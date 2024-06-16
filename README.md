@@ -36,6 +36,9 @@ This project is developed as a part of my learning journey with Flutter. The app
 # Screenshots
 
 
+
+
+
 <div align='center'>
   <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/bb0fecd1-be52-4628-9665-6e31784134d9' width=240>
   <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/ab6e65c7-5a32-434e-9296-8b8ec0acb30a' width=240>
@@ -44,6 +47,7 @@ This project is developed as a part of my learning journey with Flutter. The app
    <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/b8790493-6688-4256-8011-17aaf9a16858' width=540>
 </div>
 
+https://github.com/DarshanPatel311/Youtube_App/assets/143177575/01dacbd8-0411-4ffe-8149-8265bd241ecd
 # Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
