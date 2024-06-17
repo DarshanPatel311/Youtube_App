@@ -48,7 +48,11 @@ This project is developed as a part of my learning journey with Flutter. The app
 </div>
 
 
-https://github.com/DarshanPatel311/Youtube_App/assets/143177575/01dacbd8-0411-4ffe-8149-8265bd241ecd
+
+https://github.com/DarshanPatel311/Youtube_App/assets/143177575/9e13ce27-953a-4c50-b1f8-b840f275a394
+
+
+
 # Contributing
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
