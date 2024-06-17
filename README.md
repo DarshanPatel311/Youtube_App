@@ -41,11 +41,12 @@ This project is developed as a part of my learning journey with Flutter. The app
 
 <div align='center'>
   <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/bb0fecd1-be52-4628-9665-6e31784134d9' width=240>
-  <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/ab6e65c7-5a32-434e-9296-8b8ec0acb30a' width=240>
+  <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/29bbaf0d-2b1a-43d6-886b-6082343a2f78' width=240>
   <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/d514ee33-96f2-412f-b079-ef7133ca1aa1' width=240>
   <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/2a8a7af4-b664-4a33-a980-2ff8ca6c0083' width=240>
    <img src='https://github.com/DarshanPatel311/Youtube_App/assets/143177575/b8790493-6688-4256-8011-17aaf9a16858' width=450>
 </div>
+
 
 https://github.com/DarshanPatel311/Youtube_App/assets/143177575/01dacbd8-0411-4ffe-8149-8265bd241ecd
 # Contributing
